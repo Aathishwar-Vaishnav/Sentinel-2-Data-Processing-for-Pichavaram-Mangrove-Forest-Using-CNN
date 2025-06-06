@@ -83,3 +83,6 @@ Implement temporal change detection with time-series analysis.
 Integrate NDVI and other vegetation indices.
 
 Deploy model as a web-based visualization dashboard.
+
+# Contact:
+Linkedin: https://www.linkedin.com/in/aathishwar-vaishnav/ Email: aathi54208@gmail.com
