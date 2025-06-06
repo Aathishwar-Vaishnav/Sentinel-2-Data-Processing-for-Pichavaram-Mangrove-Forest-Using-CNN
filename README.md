@@ -5,7 +5,7 @@ A deep learning-based project that analyzes Sentinel-2 satellite imagery to clas
 Environmental Monitoring | Remote Sensing | Deep Learning
 
 # 🧠 Skills Gained
-Image Processing & Classification
+Image Processing & Classification 
 
 Satellite Imagery Analysis
 
